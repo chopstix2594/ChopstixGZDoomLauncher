@@ -1,5 +1,5 @@
 # ChopstixGZDoomLauncher
-Make it easier to set up multiplayer games in GZDoom
+Launcher/wrapper/frontend thing to make it easier to set up multiplayer games in GZDoom
 Currently only a batch file for Windows
 
 **The launcher expects you to have the following WADS:**
@@ -12,4 +12,6 @@ Currently only a batch file for Windows
 * HeXen: Beyond Heretic (HEXEN.WAD)
 * HeXen: Deathkings of the Dark Citadel (HEXDD.WAD)
 
-Just put the batch file in the same folder as GZDoom and your WADs
+Just put the batch file in the same folder as GZDoom and your WADs and run it.
+You will be promted for any necessary configuration.
+Have fun with classic Doom games!
