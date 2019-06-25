@@ -41,7 +41,7 @@ if "%mode%"=="2" (goto HOST)
 if "%mode%"=="3" (goto JOIN)
 
 :SP
-gzdoom -FILE %gamest%
+gzdoom -iwad %gamest%
 exit
 
 :HOST
@@ -54,11 +54,11 @@ echo 3.) Hurt me plenty
 echo 4.) Ultra-Violence
 echo 5.) Nightmare!
 set /p diff= Enter your choice: 
-gzdoom.exe -FILE %gamest% -host %players% -skill %diff%
+gzdoom.exe -iwad %gamest% -host %players% -skill %diff%
 exit
 
 :JOIN
 echo Which IP to join?
 set /p addr= Enter address: 
-gzdoom.exe -FILE %gamest% -join %addr%
+gzdoom.exe -iwad %gamest% -join %addr%
 exit
