@@ -1,6 +1,9 @@
 # ChopstixGZDoomLauncher
 Launcher/wrapper/frontend thing to make it easier to set up multiplayer games in GZDoom
-Currently only a batch file for Windows
+
+I made this for my dumbass friends who cant be bothered to learn CLI
+
+Currently only a batch file for Windows, I might make a bash script later
 
 **The launcher expects you to have the following WADS:**
 * The Ultimate Doom (DOOM.WAD)
