@@ -12,8 +12,9 @@ Currently only a batch file for Windows. I might make a bash script later...
 * Final Doom: The Plutonia Experiment (PLUTONIA.WAD)
 * SIGIL (SIGIL.WAD)
 * Heretic: Shadow of the Serpent Riders (HERETIC.WAD)
-* HeXen: Beyond Heretic (HEXEN.WAD)
-* HeXen: Deathkings of the Dark Citadel (HEXDD.WAD)
+* Hexen: Beyond Heretic (HEXEN.WAD)
+* Hexen: Deathkings of the Dark Citadel (HEXDD.WAD)
+* Strife: Veteran Edition (SVE.WAD, STRIFE1.WAD, VOICES.WAD)
 
 Just put the batch file in the same folder as GZDoom and your WADs and run it.
 
